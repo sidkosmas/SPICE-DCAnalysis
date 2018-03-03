@@ -1,3 +1,8 @@
+/**
+ * SPICE DC Analysis
+ * Written by Kosmas Sidiropoulos
+ *
+ **/
 #define MAX_LEN 255
 #define CHAIN_LEN 512
 

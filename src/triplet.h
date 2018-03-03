@@ -1,4 +1,10 @@
 /**
+ * SPICE DC Analysis
+ * Written by Kosmas Sidiropoulos
+ *
+ **/
+ 
+/**
 	A linked list that saves a sparse matrix
 	in triplet form.
 */

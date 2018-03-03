@@ -1,3 +1,8 @@
+/**
+ * SPICE DC Analysis
+ * Written by Kosmas Sidiropoulos
+ *
+ **/
 #include "triplet.h"
 #include <stdio.h>
 #include <stdlib.h>
