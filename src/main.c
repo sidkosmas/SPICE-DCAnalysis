@@ -7,8 +7,8 @@
 #include <gsl/gsl_spmatrix.h>
 #include <gsl/gsl_splinalg.h>
 
-#include "triplet.h"
 #include "parser.h"
+#include "triplet.h"
 
 void fprint_node_order(LinkedList *ll);
 
